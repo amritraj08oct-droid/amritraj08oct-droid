@@ -56,9 +56,8 @@ I’m a Computer Science student from Kolkata, India, focused on **C, C++, Java,
 The project focuses on budget-aware food discovery, simple UX, and a practical local problem. The concept is currently being developed as a hackathon project.
 
 ### 🐍 GitHub Contribution Snake
-My profile includes an automated contribution snake generated through GitHub Actions.
 
-![Snake animation](https://raw.githubusercontent.com/amritraj08oct-droid/amritraj08oct-droid/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/amritraj08oct-droid/amritraj08oct-droid/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 ---
 
@@ -66,8 +65,8 @@ My profile includes an automated contribution snake generated through GitHub Act
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amritraj08oct-droid&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritraj08oct-droid&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritraj08oct-droid&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Amrit's GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amritraj08oct-droid&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Top languages" />
 
 </div>
 
