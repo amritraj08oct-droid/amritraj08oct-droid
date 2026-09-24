@@ -4,7 +4,7 @@
 
 ### B.Tech CSE Student | Aspiring Software Engineer | Hackathon Builder
 
-I’m a Computer Science student from Kolkata, India, focused on **C, C++, Java, DSA, and practical software development**. I’m currently strengthening my fundamentals, building projects, and exploring how AI can be turned into useful products.
+I’m a Computer Science student from Kolkata, India, focused on **C, C++, Java, Python, DSA, and practical software development**. I’m currently strengthening my fundamentals, building projects, and exploring how AI can be turned into useful products.
 
 <a href="https://github.com/amritraj08oct-droid"><img src="https://img.shields.io/badge/GitHub-amritraj08oct--droid-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://www.linkedin.com/in/amrit-raj-436793409"><img src="https://img.shields.io/badge/LinkedIn-Amrit%20Raj-0A66C2?style=for-the-badge&logo=linkedin" /></a>
