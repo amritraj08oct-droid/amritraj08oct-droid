@@ -57,7 +57,11 @@ The project focuses on budget-aware food discovery, simple UX, and a practical l
 
 ### 🐍 GitHub Contribution Snake
 
-<img src="https://raw.githubusercontent.com/amritraj08oct-droid/amritraj08oct-droid/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amritraj08oct-droid/amritraj08oct-droid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amritraj08oct-droid/amritraj08oct-droid/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/amritraj08oct-droid/amritraj08oct-droid/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
 
 ---
 
@@ -65,8 +69,8 @@ The project focuses on budget-aware food discovery, simple UX, and a practical l
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" alt="Amrit's GitHub stats" />
-<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amritraj08oct-droid&show_icons=true&hide_border=true&theme=tokyonight" alt="Amrit's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritraj08oct-droid&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
 </div>
 
