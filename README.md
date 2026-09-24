@@ -70,7 +70,7 @@ The project focuses on budget-aware food discovery, simple UX, and a practical l
 <div align="center">
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritraj08oct-droid&theme=tokyonight&v=2" alt="Amrit's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritraj08oct-droid&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritraj08oct-droid&theme=tokyonight&v=2" alt="Top languages" />
 
 </div>
 
